@@ -11,7 +11,7 @@
   <a href="https://www.youtube.com/watch?v=qoUuwsQc5nc&t=211s" target="_blank">
     <img src="https://img.shields.io/badge/Ver_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver video">
   </a>
-  <a href="https://youtube.com/tucanal" target="_blank">
+  <a href="https://www.youtube.com/@programacion.lulaculinquieto" target="_blank">
     <img src="https://img.shields.io/badge/Suscribirse-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Suscríbete">
   </a>
 </div>
