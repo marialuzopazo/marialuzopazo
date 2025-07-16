@@ -1,4 +1,5 @@
-## Hi there 👋
+
+<img width="1920" height="1080" alt="Artificial intelligence to Enhance Language Skills Presentation in Blue and Purple 3D Modern Style" src="https://github.com/user-attachments/assets/4cd3dbe9-2276-4901-948d-f1b9a98a7d1c" />
 
 <!--
 **marialuzopazo/marialuzopazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
