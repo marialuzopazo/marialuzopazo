@@ -1,17 +1,18 @@
 
 <img width="1920" height="1080" alt="Artificial intelligence to Enhance Language Skills Presentation in Blue and Purple 3D Modern Style" src="https://github.com/user-attachments/assets/4cd3dbe9-2276-4901-948d-f1b9a98a7d1c" />
 
-<!--
-**marialuzopazo/marialuzopazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎥 revisá mi último video : creando mi videojuego con UPSO 1/4
 
-Here are some ideas to get you started:
+<a href="https://www.youtube.com/watch?v=qoUuwsQc5nc&t=211s" target="_blank">
+  <img src="https://img.youtube.com/vi/qoUuwsQc5nc/maxresdefault.jpg" alt="Cómo crear un perfil profesional en GitHub" width="500">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <a href="https://www.youtube.com/watch?v=qoUuwsQc5nc&t=211s" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver video">
+  </a>
+  <a href="https://youtube.com/tucanal" target="_blank">
+    <img src="https://img.shields.io/badge/Suscribirse-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Suscríbete">
+  </a>
+</div>
+
