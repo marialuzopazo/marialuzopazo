@@ -1,7 +1,7 @@
 
 <img width="1920" height="1080" alt="Artificial intelligence to Enhance Language Skills Presentation in Blue and Purple 3D Modern Style" src="https://github.com/user-attachments/assets/4cd3dbe9-2276-4901-948d-f1b9a98a7d1c" />
 
-👩‍💻 programadora en formación y diseñadora UX.
+👩‍💻 programadora en formación y diseñadora UX/UI
 
 📍 Estudio en UTN y UPSO, y aplico lo que aprendo en proyectos reales y prototipos funcionales.  
 
