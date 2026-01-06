@@ -1,26 +1,29 @@
+<img width="3780" height="1890" alt="”hola soy lu” (1)" src="https://github.com/user-attachments/assets/ee56ea46-a5da-4982-8962-9ee9c514385f" />
 
-<img width="1920" height="1080" alt="Artificial intelligence to Enhance Language Skills Presentation in Blue and Purple 3D Modern Style" src="https://github.com/user-attachments/assets/4cd3dbe9-2276-4901-948d-f1b9a98a7d1c" />
+# Buenas buenas,  Soy la Lula
 
-👩‍💻 programadora en formación y diseñadora UX/UI
+Bienvenida/o a mi laboratorio digital. Soy **Diseñadora UX/UI** con un pie en el código y el otro en el impacto social. Mi misión es simple: usar la tecnología y el diseño para **dejar huella** y transformar negocios en motores de cambio.
 
-📍 Estudio en UTN y UPSO, y aplico lo que aprendo en proyectos reales y prototipos funcionales.  
+### 🎓 ¿Qué estoy estudiando?
+- **Programación** en la UTN (Universidad Tecnológica Nacional).
+- **Diseño de Videojuegos** en la UPSO (Universidad Provincial del Sudoeste).
 
-🎮 Me interesa el desarrollo de videojuegos simples para enseñar, comunicar o mejorar experiencias de usuario.
+---
 
-🌱 En constante crecimiento. Compartiendo mis proyectos, pruebas y errores.
+### 📂 ¿Qué vas a encontrar en mis repositorios?
+Acá guardo mi camino y vas a encontrar un poco de:
+- 📚 **Material de estudio:** Apuntes y recursos de mis carreras y cursos.
+- 🧪 **Ejercicios:** Prácticas de lógica, algoritmos y maquetado.
+- 💡 **Proyectos Personales:** Experimentos donde mezclo diseño, código y propósito.
+- 💼 **Proyectos Laborales:** Implementaciones reales y casos de estudio.
 
-<h2 align="center" style="color:#FFFF00">🎥 revisá mi último video : creando mi videojuego con UPSO 1/4</h2>
+---
 
-<a href="https://www.youtube.com/watch?v=qoUuwsQc5nc&t=211s" target="_blank">
-  <img src="https://img.youtube.com/vi/qoUuwsQc5nc/maxresdefault.jpg" alt="Cómo crear un perfil profesional en GitHub" width="500">
-</a>
+### 📫 Sigamos la charla:
+- **Instagram:** [@lula.opazo](https://www.instagram.com/lula.opazo/)
+- **LinkedIn:** [Luz Opazo](https://www.linkedin.com/in/marialuzopazo/)
 
-<div align="left">
-  <a href="https://www.youtube.com/watch?v=qoUuwsQc5nc&t=211s" target="_blank">
-    <img src="https://img.shields.io/badge/Ver_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver video">
-  </a>
-  <a href="https://www.youtube.com/@programacion.lulaculinquieto" target="_blank">
-    <img src="https://img.shields.io/badge/Suscribirse-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Suscríbete">
-  </a>
-</div>
+*¡Gracias por pasar! Si ves algo que te sirva, usalo!.*
+
+
 
