@@ -2,12 +2,13 @@
 
 # Buenas buenas,  Soy la Lula
 
-Bienvenidos a mi laboratorio digital. Soy **Diseñadora UX/UI** con un pie en el código y el otro en el impacto social. Mi misión es simple: usar la tecnología y el diseño para **dejar huella** y transformar negocios en motores de cambio.
+Bienvenidos a mi laboratorio digital. Soy **Project Manager** con un pie en el código, y en el diseño ux. 
+Mi misión es simple: usar la tecnología y el diseño para **dejar huella** y transformar proyectos en motores de cambio.
 
 ### 🎓 ¿Qué estoy estudiando?
 - **Programación** en la UTN (Universidad Tecnológica Nacional).
 - **Diseño de Videojuegos** en la UPSO (Universidad Provincial del Sudoeste).
-
+- estudié DISEÑO UX UI / TAMBIÈN diseño ux y accesibilidad
 ---
 
 ### 📂 ¿Qué vas a encontrar en mis repositorios?
