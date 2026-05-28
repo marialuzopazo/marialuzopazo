@@ -1,30 +1,114 @@
-<img width="3780" height="1890" alt="”hola soy lu” (1)" src="https://github.com/user-attachments/assets/ee56ea46-a5da-4982-8962-9ee9c514385f" />
+<!-- BANNER -->
+<img width="3780" height="1890" alt="”hola soy lu”" src="https://github.com/user-attachments/assets/626a8dcf-91a4-4a4e-ac73-073c8fa6d8af" />
 
-# Buenas buenas,  Soy la Lula
+<br />
 
-Bienvenidos a mi laboratorio digital. Soy **Project Manager** con un pie en el código, y en el diseño ux. 
-Mi misión es simple: usar la tecnología y el diseño para **dejar huella** y transformar proyectos en motores de cambio.
+<!-- ENCABEZADO -->
+<div align="center">
 
-### 🎓 ¿Qué estoy estudiando?
-- **Programación** en la UTN (Universidad Tecnológica Nacional).
-- **Diseño de Videojuegos** en la UPSO (Universidad Provincial del Sudoeste).
-- estudié DISEÑO UX UI / TAMBIÈN diseño ux y accesibilidad
+  <h1>
+    Hola, soy Lu 🐥
+  </h1>
+
+  <p>
+    <strong>Programadora en formación · Diseñadora UX/UI · Founder en Studio Estructura de Impacto </strong>
+  </p>
+
+  <p>
+    <em>"Lo que ves es solo la punta del iceberg..."</em>
+  </p>
+
+  <!-- Badges de redes -->
+  <a href="https://www.instagram.com/lula.opazo/" target="_blank">
+    <img src="https://img.shields.io/badge/@lulaopazo-E94560?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/marialuzopazo/" target="_blank">
+    <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://behance.net/marialuzopazo" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance" />
+  </a>
+
+</div>
+
 ---
 
-### 📂 ¿Qué vas a encontrar en mis repositorios?
-Acá guardo mi camino y vas a encontrar un poco de:
-- 📚 **Material de estudio:** Apuntes y recursos de mis carreras y cursos.
-- 🧪 **Ejercicios:** Prácticas de lógica, algoritmos y maquetado.
-- 💡 **Proyectos Personales:** Experimentos donde mezclo diseño, código y propósito.
-- 💼 **Proyectos Laborales:** Implementaciones reales y casos de estudio.
+## Lo que se ve
+
+Este repositorio es la parte visible. Lo que están construyendo las manos mientras la cabeza aprende.
+
+Acá vas a encontrar:
+
+- 📐 **Ejercicios y prácticas** de la carrera de Programación
+- 🎓 **Material de estudio** organizado por materia
+- 🏙️ **App San Nicolás** — proyecto final de la carrera (app comunitaria local)
+- 🌐 **Portfolio web** — sitio personal construido con HTML, CSS y JS vanilla
+- ✏️ **Experimentos de diseño** — UX, interfaces, sistemas visuales
 
 ---
 
-### 📫 Sigamos la charla:
-- **Instagram:** [@lula.opazo](https://www.instagram.com/lula.opazo/)
-- **LinkedIn:** [Luz Opazo](https://www.linkedin.com/in/marialuzopazo/)
+## Lo que hay debajo
 
-*¡Gracias por pasar! Si ves algo que te sirva, usalo!.*
+```
+▲ Lo visible
+│
+│   Carrera de Programación — UTN- FRSN 
+│   Carrera de Diseño y Programacion de videojuegos - UPSO 
+│   Diseño UX/UI aplicado a proyectos reales - BSAS TALENTO TECH 
+│   Estructura de Impacto Studio — building in public
+│
+│ ──────────────── superficie ─────────────────
+│
+│   Años en peluquería → aprendí cómo funciona la confianza
+│   de un cliente antes de conocer el diseño.
+│
+│   ONGs → aprendí que el propósito sin estructura no llega.
+│
+│   Game design → aprendí UX en su forma más exigente:
+│   el usuario que no entiende, abandona.
+│
+▼ Propósito
+```
 
+Todo eso converge en una sola cosa:
+**ayudar a que las personas y organizaciones sean reconocidas por lo que realmente valen.**
+
+---
+
+## 🛠️ Stack que estoy aprendiendo y usando
+
+<!-- Fila 1: lenguajes -->
+<div align="left">
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📍 Ahora mismo estoy
+
+- 📚 Terminando la carrera de **Programación**
+- 🏙️ Desarrollando la **App San Nicolás** (proyecto final)
+- 🎨 Construyendo **Estructura de Impacto Studio** en público
+
+---
+
+<div align="center">
+  <sub>
+    San Nicolás de los Arroyos · Buenos Aires · 2026
+    &nbsp;·&nbsp;
+    un viaje de mil millas comienza por el primer paso 🐥
+  </sub>
+</div>
 
 
