@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://behance.net/marialuzopazo" target="_blank">
+  <a href="https://www.behance.net/b1fc651e" target="_blank">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance" />
   </a>
 
