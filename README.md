@@ -37,14 +37,14 @@
 
 ## Lo que se ve
 
-Este repositorio es la parte visible. Lo que están construyendo las manos mientras la cabeza aprende.
+Este repositorio es la parte visible. Lo que están construyendo
 
-Acá vas a encontrar:
+vas a encontrar:
 
 - 📐 **Ejercicios y prácticas** de la carrera de Programación
-- 🎓 **Material de estudio** organizado por materia
-- 🏙️ **App San Nicolás** — proyecto final de la carrera (app comunitaria local)
-- 🌐 **Portfolio web** — sitio personal construido con HTML, CSS y JS vanilla
+- 🎓 **Material de estudio** de cursos 
+- 🏙️ **App San Nicolás** — proyecto final de la carrera (app comunitaria local para san nicolas)
+- 🌐 **Portfolio web** — sitio personal construido con HTML, CSS y JS
 - ✏️ **Experimentos de diseño** — UX, interfaces, sistemas visuales
 
 ---
