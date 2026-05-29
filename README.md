@@ -1,5 +1,6 @@
 <!-- BANNER -->
-<img width="3780" height="1890" alt="”hola soy lu”" src="https://github.com/user-attachments/assets/626a8dcf-91a4-4a4e-ac73-073c8fa6d8af" />
+<img width="3780" height="1890" alt="pollo (1)" src="https://github.com/user-attachments/assets/6d259ea0-5c96-4e89-a375-60150f7ad0e9" />
+
 
 <br />
 
