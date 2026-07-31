@@ -21,11 +21,11 @@
 
   <!-- Badges de redes -->
   <a href="https://www.instagram.com/ctrl.zeta.tech/" target="_blank">
-    <img src="https://img.shields.io/badge/@lulaopazo-E94560?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/@ctrl.zeta.tech-E94560?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;
     <a href="https://www.instagram.com/estructura.deimpacto/" target="_blank">
-    <img src="https://img.shields.io/badge/@lulaopazo-E94560?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/@gestion.proyecto-E94560?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/marialuzopazo/" target="_blank">
