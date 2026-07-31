@@ -20,7 +20,11 @@
   </p>
 
   <!-- Badges de redes -->
-  <a href="https://www.instagram.com/lula.opazo/" target="_blank">
+  <a href="https://www.instagram.com/ctrl.zeta.tech/" target="_blank">
+    <img src="https://img.shields.io/badge/@lulaopazo-E94560?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+    <a href="https://www.instagram.com/estructura.deimpacto/" target="_blank">
     <img src="https://img.shields.io/badge/@lulaopazo-E94560?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;
